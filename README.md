@@ -1,5 +1,4 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="200" alt="animated hello">
-# Hi there, I'm Aadil 👋
+# Hi there, I'm Aadil 👋 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="100">
 
 A high-school student and enthusiastic programmer from Bangladesh.
 
@@ -9,6 +8,7 @@ A high-school student and enthusiastic programmer from Bangladesh.
 
 🤖 I'm also interested in AI and ML
 
+
 ## 🔨Languages and Frameworks⛏️
 
 <div align="center">
@@ -17,6 +17,7 @@ A high-school student and enthusiastic programmer from Bangladesh.
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
 </div>
+
 
 ## ⚡STATS⚡
 
