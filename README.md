@@ -10,8 +10,6 @@
 
 🤖 I'm also interested in AI and ML
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
-
 <hr>
 
 ## 🔨Languages and Frameworks⛏️
@@ -23,12 +21,3 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
 
 <hr>
-
-## ⚡STATS⚡
-
-![aadilhabibsattar's Stats](https://github-readme-stats.vercel.app/api?username=aadilhabibsattar&theme=react&show_icons=true&hide_border=true&count_private=true)
-![aadilhabibsattar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadilhabibsattar&theme=react&hide_border=true)
-
-![aadilhabibsattar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadilhabibsattar&theme=react&show_icons=true&hide_border=true&layout=compact)
-
-</div>
