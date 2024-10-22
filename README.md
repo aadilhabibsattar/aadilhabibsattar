@@ -4,11 +4,7 @@
 
 ### A high-school student and *enthusiastic programmer* from Bangladesh.
 
-📚 I'm currently studying at AS level 
-
-🌐 I'm focusing on web development
-
-🤖 I'm also interested in AI and ML
+🌐 My main focus is on web development.
 
 <hr>
 
