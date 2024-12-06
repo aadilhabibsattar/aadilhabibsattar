@@ -2,24 +2,26 @@
   
 # Hi there, I'm Aadil 👋
 
-### A high-school student and *enthusiastic programmer* from Bangladesh.
+### A high-school student and programmer from Bangladesh.
 
-🌐 My main focus is on web development.
+# 💫 About Me:
+🔭 I’m currently working on Javascript projects<br>🤝 I’m looking for internships<br>🌱 I’m currently learning Full Stack Web Development
 
-<hr>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## 🔨Languages and Frameworks⛏️
+## 🌐 Socials:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadil-habib-sattar-64389732b) 
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadilhabibsattar)
+ [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AadilHSattar) 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aadilhabibsattar&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aadilhabibsattar&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadilhabibsattar&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<hr>
+---
+[![](https://visitcount.itsvg.in/api?id=aadilhabibsattar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## ⚡Stats⚡
-
-![aadilhabibsattar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadilhabibsattar&theme=vue-dark&hide_border=true)
-
-![aadilhabibsattar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadilhabibsattar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
