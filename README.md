@@ -8,7 +8,7 @@
 🔭 I’m currently working on Javascript projects<br>🤝 I’m looking for internships<br>🌱 I’m currently learning Full Stack Web Development
 
 # My Skills ⚒️
-(https://skillicons.dev/icons?i=python,js,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,git)](https://skillicons.dev)
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,python,javascript,html,css" />
 </a>
