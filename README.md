@@ -9,6 +9,3 @@
 
 # My Skills ⚒️
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,git)](https://skillicons.dev)
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,javascript,html,css" />
-</a>
