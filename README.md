@@ -1,26 +1,22 @@
 <div align="center">
   
-# Hi there! I'm Aadil
+<h1>Hi there! I'm Aadil</h1>
 
-### A high-school student and programmer from Bangladesh.
+<p>A high-school student and programmer from Bangladesh</p>
 
-# 💫 About Me:
+<h2>💫 About Me:</h2>
 🔭 I’m currently working on Javascript projects
-<br>
+
 🤝 I’m looking for internships
-<br>
+
 🌱 I’m currently learning Full Stack Web Development
 
-# My Skills ⚒️
-<br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,git)](https://skillicons.dev)
+<h2>My Skills ⚒️</h2>h2>
+<div>
+ <img src="https://skillicons.dev/icons?i=vscode,git,python,javascript,html,css"/>
+</div>
 
-# 📊 GitHub Stats:
+<h2>📊 GitHub Stats:</h2>
 ![](https://github-readme-stats.vercel.app/api?username=aadilhabibsattar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aadilhabibsattar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadilhabibsattar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=aadilhabibsattar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
