@@ -1,7 +1,7 @@
 <div align="center">
 <h1>
   
-  ![readme-animation](https://github.com/user-attachments/assets/c3c3d117-0971-4a47-bf01-61351deb507d)
+![readme](https://github.com/user-attachments/assets/0600c909-232e-469f-b95a-6b3796394f8d)
 
 </h1>
 
@@ -26,6 +26,5 @@
 
 <h2>Stats 📊</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=aadilhabibsattar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aadilhabibsattar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadilhabibsattar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
