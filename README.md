@@ -1,6 +1,6 @@
 <div align="center">
   
-<h1>Hi there! I'm Aadil</h1>
+![name-animation](https://github.com/user-attachments/assets/b83546ef-ee6f-4e2c-8142-42116a6c5bdb)
 
 <p>A high-school student and programmer from Bangladesh</p>
 
